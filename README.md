@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 Eu sou Paulo Vitor, Sou Tecnico em Eletronica e um Programador full stack iniciante. Atualmente estou aprendendo a criar projetos em HTML, CSS, JavaScrip e React.
 
